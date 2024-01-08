@@ -5,7 +5,7 @@ let listCard = document.querySelector('.listCard');
 let body = document.querySelector('body');
 let total = document.querySelector('.total');
 let quantity = document.querySelector('.quantity');
-
+// hello
 openShopping.addEventListener('click', ()=>{
     body.classList.add('active');
 })
